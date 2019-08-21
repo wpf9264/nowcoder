@@ -1,4 +1,7 @@
-/*二维数组中的查找 */
+/*
+    二维数组中查找
+    从左下开始,遇到大的就向上走,遇到小的就往右走
+*/
 class Solution {
 public:
     bool Find(int target, vector<vector<int> > array) {
