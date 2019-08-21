@@ -1,4 +1,4 @@
-/*举行覆盖*/
+/*矩形覆盖*/
 class Solution {
 public:
     int rectCover(int number) {
