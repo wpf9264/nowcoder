@@ -1,5 +1,5 @@
 /*从头到尾打印链表*/
-/**
+/*
 *  struct ListNode {
 *        int val;
 *        struct ListNode *next;
