@@ -1,4 +1,4 @@
-/*二维数组中的查找*/
+/*二维数组中的查找 */
 class Solution {
 public:
     bool Find(int target, vector<vector<int> > array) {
