@@ -9,7 +9,7 @@ struct ListNode {
 };*/
 class Solution {
 public:
-    /*返回合并后的头结点,该问题可以化简为子问题,递归*/
+    /*返回合并后的头结点,该问题可以化简为子问题,递归 */
     /*
     ListNode* Merge(ListNode* pHead1, ListNode* pHead2)
     {
